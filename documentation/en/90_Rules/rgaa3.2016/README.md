@@ -16,10 +16,13 @@ RGAA 3.0-2016 is compound of 13 themes:
 * [Theme 12 - Navigation](12.Navigation/README.md)
 * [Theme 13 - Consultation](13.Consultation/README.md)
 
+-----
 
 * Rgaa 3.0-2016
   * http://references.modernisation.gouv.fr/rgaa/
   * http://references.modernisation.gouv.fr/rgaa-accessibilite/criteres.html
+
+----
 
 * Diff http://references.modernisation.gouv.fr/rgaa/changelog.html
 * Rgaa 3.0-2015 http://references.modernisation.gouv.fr/rgaa-accessibilite/3.0
